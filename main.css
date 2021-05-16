@@ -1,0 +1,19 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    padding: 3% 0;
+}
+
+div img {
+    padding-bottom: 20px;
+    width: 100%;
+    max-width: 300px;
+}
