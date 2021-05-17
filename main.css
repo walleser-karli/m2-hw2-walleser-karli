@@ -4,12 +4,20 @@
 	border: 0;
 }
 
-.container {
-    text-align: center;
+body {
+    background-color: lightsteelblue;
 }
 
 h1 {
     padding: 4%;
+    width: 100%;
+    background-color: white;
+    border-bottom: gray solid;
+}
+
+.container {
+    text-align: center;
+    padding-top: 30px;
 }
 
 div img {
